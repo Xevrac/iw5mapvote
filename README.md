@@ -21,6 +21,8 @@ Designed for Plutonium IW5. No compiler required.
 
 [Alternative mapvote mod](https://github.com/DoktorSAS/PlutoniumIW5Mapvote) for those that have compiler.
 
+Our version of hardcore does not have friendly fire turned on.
+
 # Features
 
 * Collection of popular maps
