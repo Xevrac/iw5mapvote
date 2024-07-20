@@ -9,7 +9,7 @@ Updated by [Xevnet](https://xevnet.au).
 
 # Screenshots 
 
-<Coming Soon>
+Coming Soon
 
 # Features
 
@@ -19,4 +19,4 @@ Updated by [Xevnet](https://xevnet.au).
 
 # Installation
 
-<Coming Soon>
+Coming Soon
