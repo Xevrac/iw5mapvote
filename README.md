@@ -21,8 +21,7 @@ Designed for Plutonium IW5. No compiler required.
 
 * Collection of popular maps
 * Supports custom XNET gamemodes (you can edit this to your liking or reimplement default)
-* Includes our own preconfigured gamemodes Infected, TDM, DOM, FFA, SD
-* Players can vote for Hardcore gamemode types
+* Gamemodes include Infected, TDM, DOM, FFA, SD and hardcore variants
 
 # Installation
 
